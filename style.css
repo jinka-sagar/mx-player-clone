@@ -1,0 +1,253 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.img1 {
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 100px;
+}
+
+.img2 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img3 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img5 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img6 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img7 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img8 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img9 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img11 {
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.img12 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img13 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img14 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img15 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img16 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img19 {
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.img20 {
+    border-radius: 20px;
+    margin-right: 20px;
+    height: 480px;
+    width: 300px;
+}
+
+body {
+    background-color: #000000;
+}
+
+h1 {
+    color: #ffffff;
+    margin-left: 100px;
+    font-size: 80px;
+    font-weight: 500px;
+    display: inline;
+}
+
+h3 {
+    color: #353ef3;
+    margin-left: 100px;
+    font-size: 80px;
+    font-weight: 500px;
+    display: inline;
+}
+
+.logo {
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 5px;
+    position: absolute;
+    display: inline;
+}
+
+.home {
+    display: inline;
+    height: 50px;
+    margin-top: 25px;
+    display: inline;
+    margin-left: 800px;
+    margin-bottom: 10px;
+}
+
+div {
+    background-color: #1c1a1a;
+    height: 100px;
+    width: 2950px;
+}
+
+.heading4 {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    height: 50px;
+    margin-top: 35px;
+    display: inline;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+.heading5 {
+    color: rgb(255, 255, 255);
+    height: 50px;
+    display: inline;
+    font-size: 35px;
+    margin-left: 280px;
+    margin-bottom: 200px;
+    position: absolute;
+    margin-top: 35px;
+}
+
+.heading6 {
+    color: rgb(255, 255, 255);
+    height: 50px;
+    margin-top: 35px;
+    position: fixed;
+    position: absolute;
+    display: inline;
+    font-size: 35px;
+    margin-left: 450px;
+    margin-bottom: 100px;
+}
+
+.hott {
+
+    height: 100px;
+    position: absolute;
+    display: inline;
+    margin-top: -28px;
+    margin-left: -40px;
+    margin-bottom: 10px;
+}
+
+.heading7 {
+    color: rgb(255, 255, 255);
+    height: 50px;
+    margin-top: 35px;
+    display: inline;
+    position: absolute;
+    font-size: 35px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+}
+
+.heading8 {
+    color: rgb(255, 255, 255);
+    height: 50px;
+    margin-top: 35px;
+    position: absolute;
+    display: inline;
+    font-size: 35px;
+    margin-left: 900px;
+    margin-bottom: 100px;
+}
+
+.heading9 {
+    color: rgb(255, 255, 255);
+    height: 50px;
+    margin-top: 35px;
+    display: inline;
+    font-size: 35px;
+    position: absolute;
+    position: fixed;
+    margin-left: 1100px;
+    margin-bottom: 100px;
+}
+
+.heading10 {
+
+    color: rgb(255, 255, 255);
+    height: 50px;
+    margin-top: 35px;
+    display: inline;
+    font-size: 35px;
+    position: absolute;
+    margin-left: 1300px;
+    margin-bottom: 100px;
+}
+
+.search {
+    height: 50px;
+    margin-top: 25px;
+    display: inline;
+    font-size: 40px;
+    position: absolute;
+    margin-left: 1500px;
+    margin-bottom: 150px;
+}
+
+.upgrade {
+    height: 50px;
+    margin-top: 25px;
+    display: inline;
+    font-size: 40px;
+    position: absolute;
+    margin-left: 1850px;
+    margin-bottom: 150px;
+}
+
+.HEADDING4 {
+    height: 50px;
+    margin-top: 25px;
+    display: inline;
+    font-size: 40px;
+    position: absolute;
+    margin-left: 1600px;
+    COLOR: WHITE;
+    margin-bottom: 150px;
+}
